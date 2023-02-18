@@ -15,8 +15,3 @@ function App() {
 }
 
 export default App;
-
-// TODO
-// Add authentication with firebase via sign in with google.
-// You might need to rewatch the tutorial for that, but before that try to do it on your own.
-// Add a utils folder and do all that stuff.
